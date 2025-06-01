@@ -1,0 +1,64 @@
+/*
+ _     _ _______ __   _ _______  ______ _______ _  _  _ _______
+ |____/  |_____| | \  | |_____| |  ____ |_____| |  |  | |_____|
+ |    \_ |     | |  \_| |     | |_____| |     | |__|__| |     |
+
+made by rikukioi 01.06.2025
+*/
+
+/* Акценты */
+/* Критические состояния */
+@define-color waveRed #e46876;
+/* Успешные операции */
+@define-color waveGreen #98bb6c;
+/* Предупреждения */
+@define-color waveYellow #e6c384;
+/* Активные элементы */
+@define-color waveBlue #7fb4ca;
+/* Фоновые активные элементы */
+@define-color waveTeal #6a9589;
+/* Интерактивные элементы */
+@define-color wavePurple #9cabca;
+/* Выделенные действия (hover) */
+@define-color waveOrange #ffa066;
+
+/* Текстовые цвета */
+@define-color fujiWhite #dcd7ba;
+@define-color oldWhite #c8c093;
+@define-color fujiGray #727169;
+
+/* Фоновые поверхности */
+@define-color sumiInk0 #16161d;
+@define-color sumiInk1 #1f1f28;
+@define-color sumiInk2 #2a2a37;
+@define-color sumiInk3 #363646;
+@define-color sumiInk4 #54546d;
+
+/* Полупрозрачные слои */
+@define-color overlay0 #909090;
+@define-color overlay1 #7e7e7e;
+@define-color overlay2 #6c6c6c;
+
+/* Спец. цвета */
+@define-color waveAqua1 #7aa89f;
+@define-color waveAqua2 #658594;
+@define-color waveAqua3 #576d8b;
+
+
+
+/* Мои переопределения для удобства */
+
+/* Основные текстовые цвета */
+@define-color text @fujiWhite;
+@define-color subtext0 @oldWhite;
+@define-color subtext1 @fujiGray;
+
+/* Фоны модулей */
+@define-color surface0 @sumiInk2;
+@define-color surface1 @sumiInk3;
+@define-color surface2 @sumiInk4;
+
+/* Системные фоны */
+@define-color base @sumiInk1;
+@define-color mantle @sumiInk0;
+@define-color crust #0a0a10;
