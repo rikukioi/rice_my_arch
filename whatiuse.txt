@@ -1,0 +1,30 @@
+------------------------
+Base info
+------------------------
+font = JetBrainsMono Nerd Font Mono (yay -S ttf-jetbrains-mono-nerd) #AUR
+terminal = kitty 
+shell = fish
+app_launcher = rofi-wayland
+navbar = waybar 
+wm = Hyprland (Wayland) 
+
+
+------------------------
+My stuff
+------------------------
+browser = firefox
+greet_screen = sddm
+wallpaper = waypaper + hyprpaper
+messanger = telegram
+
+
+
+------------------------
+Decoration stuff
+------------------------
+cursor = Nordzy
+firefox extension for pywal = pywalfox
+custom telegram theme = walogram
+color from wallpaper = pywal
+gtk-switcher = nwg-look
+icon-theme = Papirus
